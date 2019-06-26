@@ -34,5 +34,5 @@ With an average of 62.26 turns needed to win on a straight run, I defintiely don
 <img width="432" alt="Screen Shot 2019-06-25 at 10 10 07 PM" src="https://user-images.githubusercontent.com/38504767/60148268-02d65400-9796-11e9-9b56-a4e65ddcc517.png">
 
 
-
+## Rolling Only Once 
 
