@@ -52,6 +52,7 @@ Most people who play the game will roll a few times and then stop once they're c
 
 
 
+<img width="399" alt="Screen Shot 2019-06-28 at 8 34 43 PM" src="https://user-images.githubusercontent.com/38504767/60389293-1ed73f80-9a8d-11e9-9dd1-21962de7d4f7.png">
 
 
 
