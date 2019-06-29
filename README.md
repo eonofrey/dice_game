@@ -20,7 +20,7 @@ I did terribly in this game which was mostly luck, but now I'm curious if there'
 
 Let's just look at the expected value per toss. We can get at this by just doing 1,000,000 simulations of 2 random dice throws (random int of 1 to 6) and then applying the rules over these. Note: This does not include the case of snake eyes on a 0 resulting in -50. 
 
-As you can see the most common outcome is 0 with over 30% of tosses ending up in a 0. There are some less frequent very large values (16, 20, 24) due to the doubles rule. Overall the expected value per toss is 6.67.
+As you can see the most common outcome is 0 with over 30% of tosses ending up in a 0. (This makes sense because your probability of rolling a 1 is 1 - 5/6^2, or 30.55%) There are some less frequent very large values (16, 20, 24) due to the doubles rule. Overall the expected value per toss is 6.67.
 
 <img width="416" alt="Screen Shot 2019-06-25 at 9 52 51 PM" src="https://user-images.githubusercontent.com/38504767/60147602-b0943380-9793-11e9-9f69-f67ab20b69c6.png">                      <img width="198" alt="Screen Shot 2019-06-25 at 9 54 44 PM" src="https://user-images.githubusercontent.com/38504767/60147650-ea653a00-9793-11e9-819c-21fe839f0a13.png">
 
