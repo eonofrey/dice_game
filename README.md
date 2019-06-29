@@ -29,7 +29,7 @@ As you can see the most common outcome is 0 with over 30% of tosses ending up in
 
 Next we'll check the simplest strategy: Rolling until you either hit a 1 and end your turn or get above 100 and win the game. 
 
-With an average of 62.26 turns needed to win on a straight run, I defintiely don't recommend this strategy. It is iteresting to note that youre expected to win within 5 turns 8.08% of the time and within 10 turns 13.88% of the time which honestly isn't awful. Normally games last around 6 rounds so it's not as bad as it may seem at first. Plus if there are a lot of people playing in the game it may be worth it in some cases.  
+With an average of 62.31 turns needed to win on a straight run, I defintiely don't recommend this strategy. It is iteresting to note that youre expected to win within 5 turns 7.97% of the time and within 10 turns 13.71% of the time which honestly isn't awful. Normally games last around 6 rounds so it's not as bad as it may seem at first. Plus if there are a lot of people playing in the game it may be worth it in some cases.  
 
 <img width="432" alt="Screen Shot 2019-06-25 at 10 10 07 PM" src="https://user-images.githubusercontent.com/38504767/60148268-02d65400-9796-11e9-9b56-a4e65ddcc517.png">
 
