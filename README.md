@@ -29,21 +29,21 @@ As you can see the most common outcome is 0 with over 30% of tosses ending up in
 
 Next we'll check the simplest strategy: Rolling until you either hit a 1 and end your turn or get above 100 and win the game. 
 
-With an average of 62.26 turns needed to win on a straight run, I defintiely don't recommend this strategy. It is iteresting to note that youre expected to win within 5 turns 6.25% of the time and within 10 turns 15.04% of the time which honestly isn't awful. Normally games last around 6 rounds so it's not as bad as it may seem at first. Plus if there are a lot of people playing in the game it may be worth it in some cases.  
+With an average of 62.26 turns needed to win on a straight run, I defintiely don't recommend this strategy. It is iteresting to note that youre expected to win within 5 turns 8.08% of the time and within 10 turns 13.88% of the time which honestly isn't awful. Normally games last around 6 rounds so it's not as bad as it may seem at first. Plus if there are a lot of people playing in the game it may be worth it in some cases.  
 
 <img width="432" alt="Screen Shot 2019-06-25 at 10 10 07 PM" src="https://user-images.githubusercontent.com/38504767/60148268-02d65400-9796-11e9-9b56-a4e65ddcc517.png">
 
 
 ## Rolling Only Once 
 
-Next we'll check the strategy of only rolling one time and ending your turn. With an average of 23.37 turns to win the game, this strategy seems much better than never stopping your turn. However, the game is only won if you're the first person to score over 100. With this strategy, you only win in 5 turns 0.07% of the time and within 10 turns 5.10% of the time. 
+Next we'll check the strategy of only rolling one time and ending your turn. With an average of 23.37 turns to win the game, this strategy seems much better than never stopping your turn. However, the game is only won if you're the first person to score over 100. With this strategy, you only win in 5 turns 0.07% of the time and under 10 turns 2.86% of the time. 
 
 <img width="406" alt="Screen Shot 2019-06-29 at 11 02 47 AM" src="https://user-images.githubusercontent.com/38504767/60385954-84133c80-9a5d-11e9-97dc-6b9b6e3f0003.png">
 
 
 ## Rolling Multiple Times a Turn
 
-Most people who play the game will roll a few times and then stop once they're comfortable. For this sections lets look at strategies where you roll n times per turn and then end the turn. 
+Most people who play the game will roll a few times and then stop once they're comfortable. For this sections lets look at strategies where you roll n times per turn and then end the turn. Below are the distributions of turns needed to win for a few multi-toss turns. They look generally the same except as the number of rolls per turn increases, the right tail grows longer.  
 
 <img width="908" alt="Screen Shot 2019-06-29 at 11 14 40 AM" src="https://user-images.githubusercontent.com/38504767/60386119-2b44a380-9a5f-11e9-8844-7d2398e2c597.png">
 
