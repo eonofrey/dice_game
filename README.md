@@ -48,10 +48,10 @@ Most people who play the game will roll a few times and then stop once they're c
 <img width="908" alt="Screen Shot 2019-06-29 at 11 14 40 AM" src="https://user-images.githubusercontent.com/38504767/60386119-2b44a380-9a5f-11e9-8844-7d2398e2c597.png">
 
 
-<img width="399" alt="Screen Shot 2019-06-28 at 8 34 43 PM" src="https://user-images.githubusercontent.com/38504767/60386126-3ef00a00-9a5f-11e9-8f7f-36de0e4b202a.png">
+<img width="399" alt="Screen Shot 2019-06-28 at 8 34 43 PM" src="https://user-images.githubusercontent.com/38504767/60386126-3ef00a00-9a5f-11e9-8f7f-36de0e4b202a.png">   <img width="389" alt="Screen Shot 2019-06-28 at 8 56 01 PM" src="https://user-images.githubusercontent.com/38504767/60386134-529b7080-9a5f-11e9-999d-33776d22f016.png">
 
 
-<img width="389" alt="Screen Shot 2019-06-28 at 8 56 01 PM" src="https://user-images.githubusercontent.com/38504767/60386134-529b7080-9a5f-11e9-999d-33776d22f016.png">
+
 
 
 
