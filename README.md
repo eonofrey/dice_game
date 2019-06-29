@@ -36,3 +36,7 @@ With an average of 62.26 turns needed to win on a straight run, I defintiely don
 
 ## Rolling Only Once 
 
+Next we'll check the strategy of only rolling one time and ending your turn. With an average of 23.37 turns to win the game, this strategy seems much better than never stopping your turn. However, the game is only won if you're the first person to score over 100. With this strategy, you only win in 5 turns 0.07% of the time and within 10 turns 5.10% of the time. 
+
+<img width="406" alt="Screen Shot 2019-06-29 at 11 02 47 AM" src="https://user-images.githubusercontent.com/38504767/60385954-84133c80-9a5d-11e9-97dc-6b9b6e3f0003.png">
+
