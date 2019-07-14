@@ -45,14 +45,9 @@ Next we'll check the strategy of only rolling one time and ending your turn. Wit
 
 Most people who play the game will roll a few times and then stop once they're comfortable. For this sections lets look at strategies where you roll n times per turn and then end the turn. Below are the distributions of turns needed to win for a few multi-toss turns. They look generally the same except as the number of rolls per turn increases, the right tail grows longer.  
 
-<img width="908" alt="Screen Shot 2019-06-29 at 11 14 40 AM" src="https://user-images.githubusercontent.com/38504767/60386119-2b44a380-9a5f-11e9-8844-7d2398e2c597.png">
+<img width="859" alt="Screen Shot 2019-07-13 at 8 01 04 PM" src="https://user-images.githubusercontent.com/38504767/61177675-ff6e0580-a5a8-11e9-998d-ce4737b11d5a.png">
 
 
-<img width="396" alt="Screen Shot 2019-06-29 at 4 42 42 PM" src="https://user-images.githubusercontent.com/38504767/60389280-fcddbd00-9a8c-11e9-8894-bcb17b84be25.png">
-
-
-
-<img width="399" alt="Screen Shot 2019-06-28 at 8 34 43 PM" src="https://user-images.githubusercontent.com/38504767/60389293-1ed73f80-9a8d-11e9-9dd1-21962de7d4f7.png">
 
 
 
