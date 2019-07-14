@@ -50,10 +50,20 @@ Most people who play the game will roll a few times and then stop once they're c
 #### Average nuber of turns to win the game 
 <img width="405" alt="Screen Shot 2019-07-13 at 8 03 53 PM" src="https://user-images.githubusercontent.com/38504767/61177702-5d9ae880-a5a9-11e9-81ca-ccc804e4daba.png">
 
-#### Percent of games won under in under 10 turns 
+#### Percent of games won in under 10 turns 
 <img width="393" alt="Screen Shot 2019-07-13 at 8 06 11 PM" src="https://user-images.githubusercontent.com/38504767/61177729-b2d6fa00-a5a9-11e9-8fac-4f2e8bf4176b.png">
 
-#### Percent of games won under in under 5 turns 
+#### Percent of games won in under 5 turns 
 <img width="394" alt="Screen Shot 2019-07-13 at 8 07 54 PM" src="https://user-images.githubusercontent.com/38504767/61177748-152ffa80-a5aa-11e9-87f5-96793b6f8977.png">
 
+## Roll until you hit x 
+
+#### Average number of turns to win 
+<img width="397" alt="Screen Shot 2019-07-13 at 9 01 39 PM" src="https://user-images.githubusercontent.com/38504767/61178039-bcfcf680-a5b1-11e9-94b1-cfffbf84bf50.png">
+
+#### Percent of games won in under 10 turns 
+<img width="405" alt="Screen Shot 2019-07-13 at 9 01 25 PM" src="https://user-images.githubusercontent.com/38504767/61178024-6db6c600-a5b1-11e9-8231-a7443f56067c.png">
+
+#### Percent of games won in under 5 turns 
+<img width="399" alt="Screen Shot 2019-07-13 at 9 01 33 PM" src="https://user-images.githubusercontent.com/38504767/61178035-a22a8200-a5b1-11e9-8376-81c265b5c0e7.png">
 
