@@ -47,7 +47,12 @@ Most people who play the game will roll a few times and then stop once they're c
 
 <img width="859" alt="Screen Shot 2019-07-13 at 8 01 04 PM" src="https://user-images.githubusercontent.com/38504767/61177675-ff6e0580-a5a8-11e9-998d-ce4737b11d5a.png">
 
+#### Average nuber of turns to win the game 
+<img width="405" alt="Screen Shot 2019-07-13 at 8 03 53 PM" src="https://user-images.githubusercontent.com/38504767/61177702-5d9ae880-a5a9-11e9-81ca-ccc804e4daba.png">
 
+#### Percent of games won under in under 10 turns 
+<img width="393" alt="Screen Shot 2019-07-13 at 8 06 11 PM" src="https://user-images.githubusercontent.com/38504767/61177729-b2d6fa00-a5a9-11e9-8fac-4f2e8bf4176b.png">
 
-
+#### Percent of games won under in under 5 turns 
+<img width="393" alt="Screen Shot 2019-07-13 at 8 06 11 PM" src="https://user-images.githubusercontent.com/38504767/61177741-fcbfe000-a5a9-11e9-955d-c3982c7f3173.png">
 
