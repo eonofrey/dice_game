@@ -47,23 +47,36 @@ Most people who play the game will roll a few times and then stop once they're c
 
 <img width="859" alt="Screen Shot 2019-07-13 at 8 01 04 PM" src="https://user-images.githubusercontent.com/38504767/61177675-ff6e0580-a5a8-11e9-998d-ce4737b11d5a.png">
 
-#### Average nuber of turns to win the game 
+#### Average number of turns to win the game 
 <img width="405" alt="Screen Shot 2019-07-13 at 8 03 53 PM" src="https://user-images.githubusercontent.com/38504767/61177702-5d9ae880-a5a9-11e9-81ca-ccc804e4daba.png">
+
+If we're just looking at the expected number of turns it would take to win the game, the 2 roll strategy win with an average of ___ turns is the best. After that the average expected number of turns increases and becomes a worse strategy by this metric. 
 
 #### Percent of games won in under 10 turns 
 <img width="393" alt="Screen Shot 2019-07-13 at 8 06 11 PM" src="https://user-images.githubusercontent.com/38504767/61177729-b2d6fa00-a5a9-11e9-8fac-4f2e8bf4176b.png">
 
+However, this game is the _first_ to get over 100. I argue it's much better to look at the speed in which you win with a strategy, not the average number of turns to win. Rolling 3 times per turn will win the game in under 10 turns __ percent of the time, making it the best strategy by this metric. 
+
 #### Percent of games won in under 5 turns 
 <img width="394" alt="Screen Shot 2019-07-13 at 8 07 54 PM" src="https://user-images.githubusercontent.com/38504767/61177748-152ffa80-a5aa-11e9-87f5-96793b6f8977.png">
 
+While this may be aggressive, a 6 roll turn will win you the most games in under 5 turns with _ percent of games won under 5 turns.  
+
 ## Roll until you hit x 
+Similar to the rolling n amount of times per turn, this strategy looks at rolling until you hit a certain number of points. For example "keep rolling until you have a score of 25 and then end your turn." I think this strategy is most representative of how people play the game because even if you only roll once but you hit double 6's and get a total of 24 points most people lock that in. 
 
 #### Average number of turns to win 
 <img width="397" alt="Screen Shot 2019-07-13 at 9 01 39 PM" src="https://user-images.githubusercontent.com/38504767/61178039-bcfcf680-a5b1-11e9-94b1-cfffbf84bf50.png">
 
+
+
 #### Percent of games won in under 10 turns 
 <img width="405" alt="Screen Shot 2019-07-13 at 9 01 25 PM" src="https://user-images.githubusercontent.com/38504767/61178024-6db6c600-a5b1-11e9-8231-a7443f56067c.png">
 
+
+
 #### Percent of games won in under 5 turns 
 <img width="399" alt="Screen Shot 2019-07-13 at 9 01 33 PM" src="https://user-images.githubusercontent.com/38504767/61178035-a22a8200-a5b1-11e9-8376-81c265b5c0e7.png">
+
+
 
