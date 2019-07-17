@@ -68,15 +68,15 @@ Similar to the rolling n amount of times per turn, this strategy looks at rollin
 #### Average number of turns to win 
 <img width="397" alt="Screen Shot 2019-07-13 at 9 01 39 PM" src="https://user-images.githubusercontent.com/38504767/61178039-bcfcf680-a5b1-11e9-94b1-cfffbf84bf50.png">
 
-
+Waiting until you have ___ points to end your turn yields the lowest number of expected turns to win, which corroborates the results from the 2 roll strategy we previously saw. 
 
 #### Percent of games won in under 10 turns 
 <img width="405" alt="Screen Shot 2019-07-13 at 9 01 25 PM" src="https://user-images.githubusercontent.com/38504767/61178024-6db6c600-a5b1-11e9-8231-a7443f56067c.png">
 
-
+However, if you're trying to win in under 10 turns, you want to roll until you hit ----, which will result in a win in under 10 turns --- percent of the time. 
 
 #### Percent of games won in under 5 turns 
 <img width="399" alt="Screen Shot 2019-07-13 at 9 01 33 PM" src="https://user-images.githubusercontent.com/38504767/61178035-a22a8200-a5b1-11e9-8376-81c265b5c0e7.png">
 
-
+Interestingly enough for trying to win under 5 turns it appears any rolling threshold over 50 points yields the same results. 
 
